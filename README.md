@@ -1,7 +1,5 @@
 # Automata-industry-data-analysis
 
-
-# Data-Analysis of Automotive industry 
 Problems Statement
 Develop an application to demonstrate how the Automotive Industry could harness 
 data to take informed decisions.
